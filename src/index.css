@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family:'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Inter', sans-serif;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+a{
+  text-decoration: none;
+}
+.burger{
+  width: 100%;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+nav{
+  width: 55%;
+  text-align: center;
+}

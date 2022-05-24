@@ -1,0 +1,43 @@
+.cont2{
+    width: 100%;
+    display: flex;
+}
+.box{
+    width: 32%;
+}
+
+
+.single{
+     background: url(image11.png);
+     width: 90%;
+     height: 770px;
+     background-size: cover;
+}
+.double{
+    background: url(image10.png);
+    width: 90%;
+    height: 770px;
+    background-size: cover;
+}
+.cootage{
+    background: url(ian-keefe-OgcJIKRnRC8-unsplash1.png);
+    width: 90%;
+    height: 770px;
+    background-size: cover;
+}
+.rooms{
+    width: 100%;
+    flex-direction: column;
+    text-align: -webkit-center;
+    align-items: center;
+    line-height: 120px;
+}
+.room_text{
+    width: 40%;
+}
+h3{
+    font-size: 36px;
+}
+h4{
+    font-size: 24px;
+}
